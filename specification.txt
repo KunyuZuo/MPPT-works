@@ -1,0 +1,17 @@
+CODING:
+1.simulink system model: power_PVarray_3500W_521
+2.machine learning model:train_progress, second_model.h5
+3.perturbation function: perturbation_optimization
+4.data processing coding: readdata;readdataOPTV;readdataP
+
+DATA:
+1.website data: Hoboken_data2015
+2.Intermediate process data: 
+  irr;irrtimeseries;OPTV;tem;temtimeseries;Time;VolP;second_predict_test_data
+3.Output data: 
+  voltage;power;optimaloutputdata
+4.supplementary data:supplementary data
+
+PPT:
+1.EE608final
+
